@@ -1,6 +1,10 @@
 # Distilling from Similar Tasks for Transfer Learning on a Budget
-Official code for the ICCV paper: [Distilling from Similar Tasks for Transfer Learning on a Budget](https://arxiv.org/abs/2304.12314).
-Code and weights for the [paper](https://arxiv.org/abs/2304.12314) will be released here.
+Official code for the ICCV paper: [Distilling from Similar Tasks for Transfer Learning on a Budget](https://openaccess.thecvf.com/content/ICCV2023/papers/Borup_Distilling_from_Similar_Tasks_for_Transfer_Learning_on_a_Budget_ICCV_2023_paper.pdf).
+Code and weights for the will be released here.
+
+- [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Borup_Distilling_from_Similar_Tasks_for_Transfer_Learning_on_a_Budget_ICCV_2023_paper.pdf)
+- [arXiv](http://arxiv.org/abs/2304.12314)
+- [🤗 Hugging Face](https://huggingface.co/papers/2304.12314)
 
 ## Citation:
 ```
